@@ -1,5 +1,7 @@
 # Feature 2
-A description of feature 2. Is now a bit longer.
+Opis feature 2 preveden v slovenscino.
 
-## Actions
+## Akcije
 Added actions list.
+
+##
